@@ -2,4 +2,4 @@
 
 env.cibuild = "nodejs"
 env.component = "catalogue"
-nodejs()
+mainci()
